@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there👋
+It's Dima Software Engineer based in Paris 
+
+Feel free to contact me if you want to drink a coffee or tea together
 
 <!--
 **dphov/dphov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
