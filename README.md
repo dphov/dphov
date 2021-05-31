@@ -1,5 +1,5 @@
 ### Hi there👋
-It's Dima Software Engineer based in Paris 
+It's Dima Petukhov - a software engineer based in Paris 
 
 Feel free to contact me if you want to drink a coffee or tea together
 
